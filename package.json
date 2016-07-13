@@ -1,0 +1,15 @@
+{
+  "name": "ical-generator",
+  "version": "0.1.0",
+  "description": "iCalendar generator",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brendan Molloy <brendan@localift.net>",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.14.1",
+    "stampit": "^2.1.1"
+  }
+}
